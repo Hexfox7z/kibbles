@@ -17,7 +17,7 @@ description="Install Iris, along with Colorwheel for shader compatibility with F
 [[flavor_group.rendering.choices]]
 id="rendering_shaders_plus"
 name="+Compatibility"
-descripton="Same as +Shaders, but includes colorwheel's auto patcher.\nSame warning for +Shaders applies"
+description="Same as +Shaders, but includes colorwheel's auto patcher.\nSame warning for +Shaders applies"
 [metafile.sodium]
 flavors=["rendering_sodium","rendering_shaders","rendering_shaders_plus"]
 [metafile.iris]
