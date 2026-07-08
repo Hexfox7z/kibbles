@@ -1,7 +1,7 @@
 [flavor_group.rendering]
 name="Rendering Options"
 side="client"
-descriptopn="Various options for client-sided rendering mods"
+description="Various options for client-sided rendering mods"
 [[flavor_group.rendering.choices]]
 id="rendering_none"
 name="None"
