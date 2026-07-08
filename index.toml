@@ -1,9 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "28be56e97914109183be57a851c0f528c040279f09b24048ead7c0a850b44fab"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
+
+[[files]]
+file = "mods/Halcyon-v0.4.1+aria-of-the-moon.jar"
+hash = "aed3ae7f980f78ed973e65f3bb77ab9e25a23023d74be4b02e27cb0fcabb0380"
 
 [[files]]
 file = "mods/ae2.pw.toml"
@@ -193,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
+metafile = true
+
+[[files]]
+file = "mods/drive-by-wire-sable.pw.toml"
+hash = "dfcf0ef42d5dc33213781ebd3bc2c5e0debd9bb6540006d9941a02906fb33601"
 metafile = true
 
 [[files]]
@@ -491,6 +504,10 @@ hash = "60b041da19d898deb3712641794ce30761d28d3f3995eaf274dedcb6b0da4877"
 metafile = true
 
 [[files]]
+file = "mods/sable-neoforge-1.21.1-2.0.4-dev.jar"
+hash = "1417aff2a00516ea6453a544cefc89eeded1c3b745e5252756a6f9e32ced1933"
+
+[[files]]
 file = "mods/sable-ragdolls.pw.toml"
 hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
 metafile = true
@@ -624,3 +641,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "9341bdcc14a069f33faa0e657b830cba1eb4762699138c20d16ba03ec34d0467"
