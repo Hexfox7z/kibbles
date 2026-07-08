@@ -1,5 +1,6 @@
 [flavor_group.rendering]
 name="Rendering Options"
+side="client"
 descriptopn="Various options for client-sided rendering mods"
 [[flavor_group.rendering.choices]]
 id="rendering_none"
@@ -28,6 +29,8 @@ flavors="rendering_shaders_plus"
 
 [flavor_groups.cullleaves]
 name="CullLeaves"
+side="client"
+description="culling it (my leaves)"
 [[flavor_group.cullleaves.choices]]
 id="cullleaves_on"
 name="Yes"
@@ -41,8 +44,8 @@ flavors="cullleaves_on"
 
 [flavor_groups.particle_rain]
 name="Particle Rain"
-description="Client-sided mod that makes rain use different particles and vary depending on the biome."
 side="client"
+description="Client-sided mod that makes rain use different particles and vary depending on the biome."
 [[flavor_groups.particle_rain.choices]]
 id="particle_rain_on"
 name="Yes"
@@ -55,6 +58,9 @@ description="Do not install Particle Rain"
 flavors="particle_rain_on"
 
 [flavor_groups.sound_physics]
+name="Sound Physics"
+side="client"
+description="Gives sound physics"
 [[flavor_groups.sound_physics.choice]]
 id="sound_physics_on"
 name="Yes"
@@ -67,6 +73,9 @@ description="Do not install Sound Physics Remastered"
 flavors="sound_physics_on"
 
 [flavor_groups.3skin]
+name="3d Skin Layers"
+side="client"
+description="Makes skin layers render as 3d rather than 2d (will not appear 3d on ragdolls)"
 [[flavor_groups.3skin.choices]]
 id="3skin_on"
 name="Yes"
