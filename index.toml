@@ -499,11 +499,6 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
-file = "mods/sable-drive-by-wire-tfmg-engine-controller-support.pw.toml"
-hash = "60b041da19d898deb3712641794ce30761d28d3f3995eaf274dedcb6b0da4877"
-metafile = true
-
-[[files]]
 file = "mods/sable-neoforge-1.21.1-2.0.4-dev.jar"
 hash = "1417aff2a00516ea6453a544cefc89eeded1c3b745e5252756a6f9e32ced1933"
 
