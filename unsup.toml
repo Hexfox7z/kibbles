@@ -61,11 +61,11 @@ flavors="particle_rain_on"
 name="Sound Physics"
 side="client"
 description="Gives sound physics"
-[[flavor_groups.sound_physics.choice]]
+[[flavor_groups.sound_physics.choices]]
 id="sound_physics_on"
 name="Yes"
 description="Install Sound Physics Remastered"
-[[flavor_groups.sound_physics.choice]]
+[[flavor_groups.sound_physics.choices]]
 id="sound_physics_off"
 name="No"
 description="Do not install Sound Physics Remastered"
