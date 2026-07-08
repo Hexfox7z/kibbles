@@ -33,7 +33,7 @@ id="cullleaves_on"
 name="Yes"
 description="Install CullLeaves"
 [[flavor_group.culleaves.choices]]
-id="culleaves_off"
+id="cullleaves_off"
 name="No"
 description="Do not install CullLeaves"
 [metafile.cull-leaves]
