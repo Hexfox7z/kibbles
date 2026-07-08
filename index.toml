@@ -84,11 +84,6 @@ hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
-file = "mods/caverns-and-chasms.pw.toml"
-hash = "fb793a844767d4d3d9bfc931e42427dcb87b38777018d7527bbb6b4d11d4b0ce"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
 metafile = true
@@ -595,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
+metafile = true
+
+[[files]]
+file = "mods/unicandc.pw.toml"
+hash = "6134ad10aef49f444b93368e69f6702f3cc7b5c6bd60d00508542136a0be437a"
 metafile = true
 
 [[files]]
