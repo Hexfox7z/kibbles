@@ -1,0 +1,79 @@
+[flavor_group.rendering]
+name="Rendering Options"
+descriptopn="Various options for client-sided rendering mods"
+[[flavor_group.rendering.choices]]
+id="rendering_none"
+name="None"
+description="Don't download any rendering mods"
+[[flavor_group.rendering.choices]]
+id="rendering_sodium"
+name="Sodium"
+description="Download sodium"
+[[flavor_group.rendering.choices]]
+id="rendering_shaders"
+name="+Shaders"
+description="Install Iris, along with Colorwheel for shader compatibility with Flywheel\nThere is a possibility that shaders do not work in this pack, and that your screen will flash to black when using them. Please be careful."
+[[flavor_group.rendering.choices]]
+id="rendering_shaders_plus"
+name="+Compatibility"
+descripton="Same as +Shaders, but includes colorwheel's auto patcher.\nSame warning for +Shaders applies"
+[metafile.sodium]
+flavors=["rendering_sodium","rendering_shaders","rendering_shaders_plus"]
+[metafile.iris]
+flavors=["rendering_shaders","rendering_shaders_plus"]
+[metafile.colorwheel]
+flavors=["rendering_shaders","rendering_shaders_plus"]
+[metafile.colorwheel-patcher]
+flavors="rendering_shaders_plus"
+
+[flavor_groups.cullleaves]
+name="CullLeaves"
+[[flavor_group.culleaves.choices]]
+id="cullleaves_on"
+name="Yes"
+description="Install CullLeaves"
+[[flavor_group.culleaves.choices]]
+id="culleaves_off"
+name="No"
+description="Do not install CullLeaves"
+[metafile.cull-leaves]
+flavors="cullleaves_on"
+
+[flavor_groups.particle_rain]
+name="Particle Rain"
+description="Client-sided mod that makes rain use different particles and vary depending on the biome."
+side="client"
+[[flavor_groups.particle_rain.choices]]
+id="particle_rain_on"
+name="Yes"
+description="Install Particle Rain"
+[[flavor_groups.particle_rain.choices]]
+id="particle_rain_off"
+name="No"
+description="Do not install Particle Rain"
+[metafile.particle-rain]
+flavors="particle_rain_on"
+
+[flavor_groups.sound_physics]
+[[flavor_groups.sound_physics.choice]]
+id="sound_physics_on"
+name="Yes"
+description="Install Sound Physics Remastered"
+[[flavor_groups.sound_physics.choice]]
+id="sound_physics_off"
+name="No"
+description="Do not install Sound Physics Remastered"
+[metafile.sound-physics-remastered]
+flavors="sound_physics_on"
+
+[flavor_groups.3skin]
+[[flavor_groups.3skin.choices]]
+id="3skin_on"
+name="Yes"
+description="Install 3d Skin Layers"
+[[flavor_groups.3skin.choices]]
+id="3skin_off"
+name="No"
+description="Do not install 3d Skin layers"
+[metafile.3dskinlayers]
+flavors="3skin_on"

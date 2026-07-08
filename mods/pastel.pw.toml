@@ -1,0 +1,8 @@
+name = "pastel"
+filename = "Pastel-1.2.0-test.jar"
+side = "both"
+
+[download]
+url = "https://github.com/KatTheFox/prismatic-pantheon/raw/refs/heads/main/mods/Pastel-1.2.0-test.jar"
+hash-format = "sha256"
+hash = "b82c6b0aeae1edf15a766b45b48ec837382207cd0e8cd7b134ad1b5e01fc850e"

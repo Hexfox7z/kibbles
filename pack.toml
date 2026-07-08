@@ -1,0 +1,13 @@
+name = "Riinas Improved Minecraft"
+author = "Riina"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "77552c70d4f9fac4aa87393406b0abd3f15977659220b57d2c207779921cc17f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.235"

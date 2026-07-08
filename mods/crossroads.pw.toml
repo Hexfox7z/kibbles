@@ -1,0 +1,13 @@
+name = "Crossroads"
+filename = "crossroads-1.21.1-2.11.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AucYCd0o/versions/t11qGm7E/crossroads-1.21.1-2.11.7.jar"
+hash-format = "sha512"
+hash = "2dc2a4f5fc4146b4f18daa10d43c808604b225077160add184678864caab60f1aafc3b05b43caf2bd9188ef562ef26583ae496060b0ccd8a74d6a911cdc6994e"
+
+[update]
+[update.modrinth]
+mod-id = "AucYCd0o"
+version = "t11qGm7E"
