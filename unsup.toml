@@ -28,11 +28,11 @@ flavors="rendering_shaders_plus"
 
 [flavor_groups.cullleaves]
 name="CullLeaves"
-[[flavor_group.culleaves.choices]]
+[[flavor_group.cullleaves.choices]]
 id="cullleaves_on"
 name="Yes"
 description="Install CullLeaves"
-[[flavor_group.culleaves.choices]]
+[[flavor_group.cullleaves.choices]]
 id="cullleaves_off"
 name="No"
 description="Do not install CullLeaves"
