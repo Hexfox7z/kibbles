@@ -5,6 +5,14 @@ file = "README.md"
 hash = "28be56e97914109183be57a851c0f528c040279f09b24048ead7c0a850b44fab"
 
 [[files]]
+file = "global_packs/required_data/Tackle Box Wrenching.zip"
+hash = "eafd3d2f41d076da1ca02f1320c5c044360795f272db11bf4d757ddc2ae56e38"
+
+[[files]]
+file = "global_packs/required_data/Tidal Fares.zip"
+hash = "accb56146385afae62809190359e6aee1f529de071c0e7d7bc47f3afa0d08db0"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
@@ -326,6 +334,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "5a9463a0e36cc8e6cdcbd6c2b616584dc6762b06b49860cc755fcfcf97de42d7"
 metafile = true
 
 [[files]]
