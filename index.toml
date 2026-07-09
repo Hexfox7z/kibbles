@@ -6,7 +6,7 @@ hash = "28be56e97914109183be57a851c0f528c040279f09b24048ead7c0a850b44fab"
 
 [[files]]
 file = "global_packs/required_data/EMMP.zip"
-hash = "2475e3699e78759e61bddea6c24bfd197c897f853f2c6426ea07aa33fa895520"
+hash = "d438e145c161a1df45d4750e722718bc6bfe96fb12d634ea8f727ba0cb50cba7"
 
 [[files]]
 file = "global_packs/required_data/Tackle Box Wrenching.zip"
@@ -14,7 +14,7 @@ hash = "eafd3d2f41d076da1ca02f1320c5c044360795f272db11bf4d757ddc2ae56e38"
 
 [[files]]
 file = "global_packs/required_data/Tidal Fares.zip"
-hash = "5b3be5d94eb72cad9d34c4bb70b33d528c868e4e80d3a0dd3d98303d4441e87f"
+hash = "88aea0668d2afd1d773a8ea114e44a261336f09e28caf3157184d264a2297042"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
