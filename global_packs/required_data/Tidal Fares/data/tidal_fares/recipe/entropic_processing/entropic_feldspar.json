@@ -1,0 +1,6 @@
+{
+	"type": "datanessence:entropic_processing",
+	"input": { "tag": "tidal_fares:mills_into_feldspar" },
+	"time": 100,
+	"result": { "id": "bountifulfares:feldspar", "count": 6 }
+}

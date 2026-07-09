@@ -5,16 +5,96 @@ file = "README.md"
 hash = "28be56e97914109183be57a851c0f528c040279f09b24048ead7c0a850b44fab"
 
 [[files]]
-file = "global_packs/required_data/EMMP.zip"
-hash = "d438e145c161a1df45d4750e722718bc6bfe96fb12d634ea8f727ba0cb50cba7"
+file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/base_slabs.json"
+hash = "d0a4aaf38b3e8cf83a69560e6d5e597cb96a99f267ccc0fd1d16898918460a51"
+
+[[files]]
+file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/bases.json"
+hash = "eec3a36f1861c122268ebdbc77486aab657be6c5c1aec5b479866f991e7e82c6"
+
+[[files]]
+file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/chiseled.json"
+hash = "be62b79c39ef4a87f9a0dd916d24d96ba6004a351584e673e3f861d35e5c2db5"
+
+[[files]]
+file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/crests.json"
+hash = "34a7409e4a0ff2ff59b3881b497b2ea77dd50abf875ab6744517af7a8782490a"
+
+[[files]]
+file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/gemstones.json"
+hash = "2bc09a6c3989eef9bcaf22dab67d6a8cf91620e49b0cfd271758411ba530d0dd"
+
+[[files]]
+file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/lights.json"
+hash = "418a68e81b0fdfc20ec75c28d0643f0281b7d2ba6ff7713e56d85f897021caad"
+
+[[files]]
+file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/midgame_runes.json"
+hash = "6cff099976c6bd21d2d397f8a75f0c2736e69c5269c2efebb978388f480b8f98"
+
+[[files]]
+file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/notched.json"
+hash = "7f421c8353c887295b3782374ca4118e807a2ee88902b35cb11916ff3462f672"
+
+[[files]]
+file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/pillars.json"
+hash = "cd03bcfab22eab34a5ecfdda0636359df0daab62c780610195c26db953cbf23f"
+
+[[files]]
+file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/runes.json"
+hash = "3b83860d3b9ee3eab3b2517be9899268a09e3d03e4dbf450c04308a7e0d7cb30"
+
+[[files]]
+file = "global_packs/required_data/EMMP/pack.mcmeta"
+hash = "6d6db49f4cb530708f846702a1afe46675645217fa80adebf744a7a035764a41"
+
+[[files]]
+file = "global_packs/required_data/EMMP/pack.png"
+hash = "fd14a5e4396c5f7fa2319ec7422d094ca5ab19f65c3412d7a8d04ee9acec985a"
 
 [[files]]
 file = "global_packs/required_data/Tackle Box Wrenching.zip"
 hash = "eafd3d2f41d076da1ca02f1320c5c044360795f272db11bf4d757ddc2ae56e38"
 
 [[files]]
-file = "global_packs/required_data/Tidal Fares.zip"
-hash = "88aea0668d2afd1d773a8ea114e44a261336f09e28caf3157184d264a2297042"
+file = "global_packs/required_data/Tidal Fares/data/tidal_fares/recipe/entropic_processing/entropic_feldspar.json"
+hash = "43d85e3ab413e77b55c685d7d29866f8bdbb65ba3618d4f89dbe41f8ed94c222"
+
+[[files]]
+file = "global_packs/required_data/Tidal Fares/data/tidal_fares/recipe/entropic_processing/grass_seeds.json"
+hash = "b6c622b5226618cbfba01905dacd92cee4c92cd8418ca77fd71f192422826bde"
+
+[[files]]
+file = "global_packs/required_data/Tidal Fares/data/tidal_fares/recipe/entropic_processing/mulching_coconut.json"
+hash = "bf809e7589d06231cbf211a0be651336bc6aa80c0dcd8d6f030592036a08e07e"
+
+[[files]]
+file = "global_packs/required_data/Tidal Fares/data/tidal_fares/recipe/entropic_processing/mulching_fronds.json"
+hash = "2cdcdf264f397a5e6dac29352e93d85e8208e8e78d8269b3cfb24f0a4b8b616b"
+
+[[files]]
+file = "global_packs/required_data/Tidal Fares/data/tidal_fares/recipe/entropic_processing/mulching_walnut.json"
+hash = "a95449e3f1a261b0b1b7f4e3b98a4dbac300056507ef249b48a9750b0c70f7c9"
+
+[[files]]
+file = "global_packs/required_data/Tidal Fares/data/tidal_fares/recipe/entropic_processing/r2rfiletransfer.json"
+hash = "28f53f9466f49863f4bcd362d7830abcefda0ec0a69da105cc3fe1cd69386848"
+
+[[files]]
+file = "global_packs/required_data/Tidal Fares/data/tidal_fares/tags/recipe_condensors/flour_millable.json"
+hash = "c48d6fbc013bdfd2baa864bbfecbc418a81403f1c242175ac9a9e6a98df718e1"
+
+[[files]]
+file = "global_packs/required_data/Tidal Fares/data/tidal_fares/tags/recipe_condensors/mills_into_feldspar.json"
+hash = "95644909b38bedc5031c812015256da448ed715c21a79c331b815c81d2a7ce7c"
+
+[[files]]
+file = "global_packs/required_data/Tidal Fares/pack.mcmeta"
+hash = "cd7c21d4ba444f80d03a169eb98e5c9388597f912f1fd1b3343c02403baf1709"
+
+[[files]]
+file = "global_packs/required_data/Tidal Fares/pack.png"
+hash = "ad9c60914504aae79dd8d396505ecb9f155c5a0d2c1c561f43e6b057495397c4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"malum:chiseled_tainted_rock",
+		"malum:chiseled_twisted_rock",
+		"halcyon:copper_vent",
+		"halcyon:ancient_glyph_stone_essence_shieldless",
+		"halcyon:ancient_glyph_stone_makutuin_shieldless"
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"type": "datanessence:entropic_processing",
+	"input": { "item": "bountifulfares:coconut" },
+	"time": 75,
+	"result": { "id": "bountifulfares:coconut_coir", "count": 4 }
+}

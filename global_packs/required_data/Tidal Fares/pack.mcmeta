@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"description": "Compat between Bountiful Fares and Halcyon, moving certain gristmill recipes to the Entropic Processor",	
+		"pack_format": 48
+	}
+}

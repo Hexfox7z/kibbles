@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"malum:cut_tainted_rock",
+		"malum:cut_twisted_rock",
+		"halcyon:polished_obsidian_column",
+		"halcyon:polished_obsidian_tract",
+		"halcyon:ancient_rock_column_shieldless"
+	]
+}

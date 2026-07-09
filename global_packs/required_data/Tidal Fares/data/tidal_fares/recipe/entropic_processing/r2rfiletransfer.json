@@ -1,0 +1,6 @@
+{
+	"type": "datanessence:entropic_processing",
+	"input": { "item": "farmersdelight:rice_panicle" },
+	"time": 50,
+	"result": { "id": "farmersdelight:rice", "count": 4 }
+}

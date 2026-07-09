@@ -1,0 +1,6 @@
+{
+	"type": "datanessence:entropic_processing",
+	"input": { "item": "bountifulfares:walnut" },
+	"time": 55,
+	"result": { "id": "bountifulfares:walnut_mulch", "count": 4 }
+}

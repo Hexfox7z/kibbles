@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		 "malum:polished_tainted_rock",
+		 "malum:polished_twisted_rock",
+		 "malum:scarstone",
+		 "halcyon:polished_obsidian",
+		 "halcyon:polished_obsidian_bricks",
+		 "halcyon:ancient_rock_bricks_shieldless"
+	]
+}

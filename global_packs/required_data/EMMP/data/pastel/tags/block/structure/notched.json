@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"malum:tainted_rock_column_cap",
+		"malum:twisted_rock_column_cap",
+		"halcyon:engraved_polished_obsidian",
+		"halcyon:patterned_copper",
+		"halcyon:ancient_glyph_stone_blank_shieldless"
+	]
+}

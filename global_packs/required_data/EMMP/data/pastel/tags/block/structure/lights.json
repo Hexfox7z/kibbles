@@ -1,0 +1,11 @@
+{
+	"replace": false,
+	"values": [
+		"malum:ether",
+		"malum:iridescent_ether",
+		"halcyon:ancient_lantern_shieldless",
+		"pastel:shimmerstone_block",
+		"pastel:hummingstone",
+		"malum:mote_of_mana"
+	]
+}

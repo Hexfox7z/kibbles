@@ -1,0 +1,21 @@
+{
+	"replace": false,
+	"values": [
+		"malum:block_of_brilliance",
+		"malum:block_of_cthonic_gold",
+		"malum:block_of_blazing_quartz",
+		"malum:block_of_soulstone",
+		"malum:block_of_warp_flux",
+		"halcyon:block_of_industry",
+		"halcyon:block_of_transformation",
+		"enderscape:nebulite_block",
+		"pastel:azurite_block",
+		"pastel:malachite_block",
+		"pastel:bloodstone_block",
+		"pastel:shimmerstone_block",
+		"pastel:bismuth_block",
+		"malum:block_of_auric_embers",
+		"malum:block_of_nmemonic_fragment",
+		"malum:block_of_null_slate"
+	]
+}
