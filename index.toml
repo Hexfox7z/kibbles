@@ -22,11 +22,11 @@ hash = "34a7409e4a0ff2ff59b3881b497b2ea77dd50abf875ab6744517af7a8782490a"
 
 [[files]]
 file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/gemstones.json"
-hash = "2bc09a6c3989eef9bcaf22dab67d6a8cf91620e49b0cfd271758411ba530d0dd"
+hash = "56a238f8caf7e333ff65b347c94433ef153694a8ad326dcfa9df85d3e4a04547"
 
 [[files]]
 file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/lights.json"
-hash = "418a68e81b0fdfc20ec75c28d0643f0281b7d2ba6ff7713e56d85f897021caad"
+hash = "4c6feb767de179c6f73dcb15fae4662199777b3391393f51b1493f8a5fb322fe"
 
 [[files]]
 file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/midgame_runes.json"
