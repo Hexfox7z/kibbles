@@ -1,0 +1,8 @@
+name = "unicandc"
+filename = "caverns_and_chasms-1.21.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://fennet.rentals/dump/caverns_and_chasms-1.21.1-3.0.1.jar"
+hash-format = "sha256"
+hash = "a5396e8fbb748722b0588b99ab4ca1d9d2040b6dd42919c738acf09ed2842f7e"
