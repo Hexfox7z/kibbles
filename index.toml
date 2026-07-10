@@ -225,6 +225,11 @@ hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-climbable-rope.pw.toml"
+hash = "932b0d9f28a5058c41bc2faf0cc09b68ef368e0cad3259efa2bace45e128fe29"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-rechiseled-compatibility.pw.toml"
 hash = "3d69bef37e924253e746b3496adbff38495f92b994e460814dedd098ef07e250"
 metafile = true
@@ -297,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/drive-by-wire-sable.pw.toml"
 hash = "dfcf0ef42d5dc33213781ebd3bc2c5e0debd9bb6540006d9941a02906fb33601"
+metafile = true
+
+[[files]]
+file = "mods/dungeons_delight.pw.toml"
+hash = "633da82d88437f80abcc0aed54eda0a6a7d89e1f3289d3fdc85a529d1ec0b0ee"
 metafile = true
 
 [[files]]
@@ -552,6 +562,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
