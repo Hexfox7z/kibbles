@@ -281,11 +281,6 @@ hash = "f64659949843684d173c3eef1aa478950068088051f03965114df1f41488e7b2"
 metafile = true
 
 [[files]]
-file = "mods/distraction-free-recipes.pw.toml"
-hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
-metafile = true
-
-[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "fe88386ca7a7c34be094f10e3a012810cec23f21b580dbc1c908cf95a17bf6f8"
 metafile = true
@@ -682,11 +677,6 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "98ef5714a273c9153fbfaca195806d36f568556819dde7b90ec6561646bede98"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]
