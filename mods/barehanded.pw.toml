@@ -1,0 +1,13 @@
+name = "Sable: Barehanded"
+filename = "barehanded-neoforge-1.21.1-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NnSJuVRa/versions/RvSdSd5a/barehanded-neoforge-1.21.1-1.6.1.jar"
+hash-format = "sha512"
+hash = "fde012deabfa09284f27ac27829a190a7b579c4d89cce1650a617db1e57a3b06ec505397d07c3efa3fafd6044a9a924d20bf67416899e90f5962b94b1cce6967"
+
+[update]
+[update.modrinth]
+mod-id = "NnSJuVRa"
+version = "RvSdSd5a"
