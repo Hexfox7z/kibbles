@@ -25,6 +25,10 @@ file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/crests.
 hash = "34a7409e4a0ff2ff59b3881b497b2ea77dd50abf875ab6744517af7a8782490a"
 
 [[files]]
+file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/earlygame_runes.json"
+hash = "526c3055d07be8dcdde4d208129cda1255ea3e087cc5b1cc1644bad32c493cd2"
+
+[[files]]
 file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/gemstones.json"
 hash = "56a238f8caf7e333ff65b347c94433ef153694a8ad326dcfa9df85d3e4a04547"
 
