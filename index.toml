@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "28be56e97914109183be57a851c0f528c040279f09b24048ead7c0a850b44fab"
-
-[[files]]
 file = "config/quark-common.toml"
 hash = "20176dfdb9ba180305712ad27cdb36e45397b7884cdc43248516d450f3389cd4"
 
