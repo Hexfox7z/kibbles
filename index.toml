@@ -146,6 +146,11 @@ hash = "94d01d4a23e167a90503c7c1e2c05159f1ddf6a5f47e9aaf5630e7ad56b98bda"
 metafile = true
 
 [[files]]
+file = "mods/barehanded.pw.toml"
+hash = "fe6e768dfb076e5afd1ab47705ee8b89287b18e89314ab3a93695666336e0882"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
 metafile = true
@@ -667,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/touys.pw.toml"
 hash = "cfba4887821d3a994ccee8e7e76cf2d9b1fb50171d4172bf62bd10604bf6675f"
+metafile = true
+
+[[files]]
+file = "mods/tree-physics.pw.toml"
+hash = "1b7680323cbe0c27213606416ad85687fc5d77d3770913c1e3c380d31d54bed6"
 metafile = true
 
 [[files]]
