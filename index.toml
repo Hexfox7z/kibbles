@@ -22,7 +22,7 @@ hash = "34a7409e4a0ff2ff59b3881b497b2ea77dd50abf875ab6744517af7a8782490a"
 
 [[files]]
 file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/earlygame_runes.json"
-hash = "526c3055d07be8dcdde4d208129cda1255ea3e087cc5b1cc1644bad32c493cd2"
+hash = "f1ead590a5938698ee93b3fe0f61a5a07453a68561a0f8a2cb0fd2d8cdcf725d"
 
 [[files]]
 file = "global_packs/required_data/EMMP/data/pastel/tags/block/structure/gemstones.json"
@@ -227,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "e002fab16a9b9ef0a35844030339612a38d3c58b0b93e97a34eb43ddc9108be7"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked-forked.pw.toml"
+hash = "a46ca4af9976720616c93d993965bd15317ed82746230c702c55eaf447be88fd"
 metafile = true
 
 [[files]]
