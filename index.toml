@@ -370,11 +370,6 @@ hash = "dee101b4695257c023df362ae0e99f9ed7ca0f43bf943016f398e301b1678be4"
 metafile = true
 
 [[files]]
-file = "mods/entombed.pw.toml"
-hash = "9ed8f9018f75d435122aa7adf0d37c8a9c9b422580947ef8a34773bdfc78ec24"
-metafile = true
-
-[[files]]
 file = "mods/envelope.pw.toml"
 hash = "b67ffad0a5290f89618b69b4a3b5b1fbd792d6c1e154801f704ccdbbcb0ba514"
 metafile = true
