@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "f301f059c76ece8badbcdd250ef2ac2aadf66a2759d088f95ab74c23279585e1"
+hash = "bf235add2b3e6d5ce63b07ad63203261a041f64076ca004f7286d9cdf9fa2751"
 metafile = true
 
 [[files]]
