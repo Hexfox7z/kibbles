@@ -110,6 +110,11 @@ file = "mods/Halcyon-v0.4.1+aria-of-the-moon.jar"
 hash = "aed3ae7f980f78ed973e65f3bb77ab9e25a23023d74be4b02e27cb0fcabb0380"
 
 [[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "b2890f92c87f48cb45a0d8053f69afdbee6ce828c07cd0d7d4c3fd7c201e3eb0"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -187,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
+metafile = true
+
+[[files]]
+file = "mods/cc-sable.pw.toml"
+hash = "253a414e73f57c890ae5e03f49517191267b1bef0a89252ae1221748cd0de4f9"
 metafile = true
 
 [[files]]
@@ -286,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/crossroads.pw.toml"
-hash = "da636f9939272886b654859e9b738401566868b41f45824dc23e94367def2d9e"
+hash = "4325dea726aae5b1ce1c66a3493624f80534da02af84c3574b48e430dcfefc7b"
 metafile = true
 
 [[files]]

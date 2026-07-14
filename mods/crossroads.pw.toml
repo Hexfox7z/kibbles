@@ -1,13 +1,13 @@
 name = "Crossroads"
-filename = "crossroads-1.21.1-2.11.7.jar"
+filename = "crossroads-1.21.1-2.11.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/AucYCd0o/versions/t11qGm7E/crossroads-1.21.1-2.11.7.jar"
+url = "https://cdn.modrinth.com/data/AucYCd0o/versions/s0w6wLtx/crossroads-1.21.1-2.11.8.jar"
 hash-format = "sha512"
-hash = "2dc2a4f5fc4146b4f18daa10d43c808604b225077160add184678864caab60f1aafc3b05b43caf2bd9188ef562ef26583ae496060b0ccd8a74d6a911cdc6994e"
+hash = "32b428172f39cc7f4605c2ef8931064d912711a986bba46e2a9296f1b3f01d09de206382db7ef22f396f3f928de6e818bd9eb0fee9c52415eda1befc13b1915d"
 
 [update]
 [update.modrinth]
 mod-id = "AucYCd0o"
-version = "t11qGm7E"
+version = "s0w6wLtx"
