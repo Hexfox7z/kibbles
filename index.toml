@@ -724,6 +724,11 @@ hash = "cfba4887821d3a994ccee8e7e76cf2d9b1fb50171d4172bf62bd10604bf6675f"
 metafile = true
 
 [[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "a43bccc1cdad8e0ce5167f379c98935f7ea8117ac0bda2218b372defbc9fc985"
+metafile = true
+
+[[files]]
 file = "mods/tree-physics.pw.toml"
 hash = "1b7680323cbe0c27213606416ad85687fc5d77d3770913c1e3c380d31d54bed6"
 metafile = true
