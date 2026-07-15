@@ -1,0 +1,13 @@
+name = "Create Factory Logistics"
+filename = "create_factory_logistics-1.21.1-1.5.2-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QMGO17gm/versions/pny20RPZ/create_factory_logistics-1.21.1-1.5.2-all.jar"
+hash-format = "sha512"
+hash = "a42fe8cc559d2ed52244ad455c87f0c75efb3f620e56edfcbf56608411da5b249dbddef31ca75c1417073d6896669361fd3910c6a647829db85bfa7c55d72d67"
+
+[update]
+[update.modrinth]
+mod-id = "QMGO17gm"
+version = "pny20RPZ"

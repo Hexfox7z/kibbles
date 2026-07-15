@@ -295,6 +295,11 @@ hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
 
 [[files]]
+file = "mods/create_factory_logistics.pw.toml"
+hash = "2be920446c8149f8d91f16cde5be39feee6c22d2fb5f57af3aff85b26d5d430e"
+metafile = true
+
+[[files]]
 file = "mods/crossroads.pw.toml"
 hash = "4325dea726aae5b1ce1c66a3493624f80534da02af84c3574b48e430dcfefc7b"
 metafile = true
