@@ -635,11 +635,6 @@ hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
 metafile = true
 
 [[files]]
-file = "mods/reactive.pw.toml"
-hash = "88ed3ad28743cb00c0070b7579eedf9d9309d4f63be4886cb48260115e289512"
-metafile = true
-
-[[files]]
 file = "mods/rechiseled-applied-energistics-2.pw.toml"
 hash = "dc37b939e49d480a2fa8c29c1e49029f3250b8ceb08b42c69e1252c7e4090e1f"
 metafile = true
