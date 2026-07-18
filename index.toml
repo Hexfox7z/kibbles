@@ -340,11 +340,6 @@ hash = "633da82d88437f80abcc0aed54eda0a6a7d89e1f3289d3fdc85a529d1ec0b0ee"
 metafile = true
 
 [[files]]
-file = "mods/dynamiducts.pw.toml"
-hash = "3979a4580fef73119ec853cecd4ceb30bc4a34c4066a6d41b2f2e0ec459384c9"
-metafile = true
-
-[[files]]
 file = "mods/ears.pw.toml"
 hash = "b42ea604c46fc73d9474ebc9d6d3d64a1efe6b9d5df8512c71a86f820eb8a105"
 metafile = true
@@ -485,6 +480,11 @@ hash = "e10bec77c4660bf629b9e61e1384c18884395f7a8bc1a7d3f0720358f1a75f64"
 metafile = true
 
 [[files]]
+file = "mods/hypertube.pw.toml"
+hash = "7ada38839639eaea9c5bcf6e3f861004d0a85452d22ee2d62609f13940249721"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "5592a8c0d97106286f29cf1c67a5b8979265a7b22fc3ccefd4f7ff8bc2b77ddc"
 metafile = true
@@ -532,6 +532,16 @@ metafile = true
 [[files]]
 file = "mods/malum.pw.toml"
 hash = "0213b6ecb4784b9f57bf3d66444c61ce357b365c8bef2d10363d0c7f20b86e58"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "0ec2ceb5602df266d2e07bdc0bc409cdd3d325a6b5136554787779cdf8057a27"
+metafile = true
+
+[[files]]
+file = "mods/mekanism.pw.toml"
+hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
 metafile = true
 
 [[files]]
